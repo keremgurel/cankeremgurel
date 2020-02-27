@@ -1,0 +1,100 @@
+
+<!doctype html>
+<html>
+    <head>
+        
+        <title>Kobe Bryant Tribute</title>
+        
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    </head>
+
+    <body>
+       
+        <h1>Dear Kobe, thank you for everything you've done!</h1>
+        
+        <img src="kobe1.jpg" width="700">
+        
+        <p>For all that he accomplished on the court, Kobe Bryant inspired and touched lives in ways few can even dream of. He was a true role model for millions with his Mamba Mentality, which made him the hardest worker in any room, under any circumstance.</p>
+        
+        <hr>
+        
+        <p>Here are some of the incredible achievements he left on his path to becoming one of the greatest basketball players to ever play the game:</p>
+        
+            <ul>
+                
+                <li>5 championship rings with a side of 3-Peat</li>
+                <li>Youngest starting All-Star in NBA history</li>
+                <li>81 points in a single game <a href="https://www.youtube.com/watch?v=FeXZY4eVLlo">(watch) </a></li>
+                <li>Most Valuable Player Award in 07'-08' Season</li>
+                <li>62 points in 3 quarters <a href="https://www.youtube.com/watch?v=TSUoQw0pKew"> (watch) </a></li>
+                <li>Youngest starting All-Star in NBA history</li>
+                <li>14 All-NBA team selections</li>
+                <li>4th in all time scoring</li>
+                
+                <br>
+                
+                <table>
+                
+                    <thead>
+                    
+                        <tr>
+                            
+                            <th>Ranking         </th>
+                            <th>Name            </th>
+                            <th>Points scored   </th>
+                            
+                        </tr>
+                        
+                    </thead>
+                
+                    <tbody>
+                    
+                        <tr>
+                            
+                            <td>1</td>
+                            <td>Kareem Abdul-Jabbar</td>
+                            <td>38,387 </td>
+                        
+                        </tr>
+                    
+                        <tr>
+                            
+                            <td>2</td>
+                            <td>Karl Malone</td>
+                            <td>36,9287 </td>
+                        
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td>3</td>
+                            <td>Lebron James</td>
+                            <td>33,918(still playing) </td>
+                        
+                        </tr>
+                        
+                        <tr>
+                            
+                            <td>4</td>
+                            <td>Kobe Bryant</td>
+                            <td>33,643 </td>
+                        
+                        </tr>
+                    
+                    </tbody>
+                </table>
+                
+                <form action="https://en.wikipedia.org/wiki/Kobe_Bryant">
+                    
+                    <p>Want to learn more about Kobe Bryant?</p>
+                    
+                    <p><input type="submit" value="Click here!"></p>
+                
+                </form>
+            </ul>
+    </body>
+
+</html>
